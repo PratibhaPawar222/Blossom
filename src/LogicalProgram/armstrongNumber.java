@@ -24,6 +24,7 @@ public class armstrongNumber {
 		else
 		{
 			System.out.println("Not Armstrong");
+			System.out.println("hi this change for GitHub Testing");
 		}
 
 	}
